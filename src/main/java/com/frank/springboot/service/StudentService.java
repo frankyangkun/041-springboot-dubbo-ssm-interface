@@ -1,7 +1,7 @@
 package com.frank.springboot.service;
 
 import com.frank.springboot.model.Student;
-
+//图形界面提交测试（命令行没问题）
 public interface StudentService {
     /**
      * 根据学生id查询详情
